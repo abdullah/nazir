@@ -1,0 +1,27 @@
+{
+  "name": "vada",
+  "version": "1.0.0",
+  "description": "vadaaaa",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "vada",
+    "select",
+    "multi",
+    "js"
+  ],
+  "author": " <mara.abdullah00@gmail.com>",
+  "license": "ISC",
+  "devDependencies": {
+    "babel-plugin-external-helpers": "^6.22.0",
+    "babel-preset-es2015": "^6.22.0",
+    "gulp": "^3.9.1",
+    "laravel-elixir": "^6.0.0-15",
+    "laravel-elixir-browsersync-official": "^1.0.0",
+    "laravel-elixir-rollup-official": "^1.1.0",
+    "laravel-elixir-webpack-official": "^1.0.10",
+    "rollup-plugin-babel": "^2.7.1"
+  }
+}
